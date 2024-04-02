@@ -1,0 +1,3 @@
+/// @description Pared
+x = xprevious;
+

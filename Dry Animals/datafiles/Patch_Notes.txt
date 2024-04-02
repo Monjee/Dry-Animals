@@ -1,0 +1,23 @@
+Agregado
++ Particulas al morir
++ Dinero ahora se guarda
++ Ahora se muestra el dinero en la pantalla
++ Nuevo y definitivo ui
+
+Cambios
+-Se ha cambiado el boton de salir por el de comprar
+
+
+Por Hacer
+- Tienda
+- Opciones + Nuevos controles.
+- CAMBIAR ALTURA DEL PARAGUAS, ALGUNOS SKINS NO COINCIDEN CON LA ALTURA DEL PARAGUAS!!
+
+Bugs
+- Al saltar los perros por puntos extras
+	*Ciertos puntos no te dan el puntuaje
+	*Ciertos movimientos hacia enfrente aumentan el puntuaje de mas
+- Al saltar en el limite te quedas atorado y se arruina el juego BUG CRITICO!!
+
+Teoria!
+- Tal vez las listas no se nesecitan (En efecto no se nesecitaban)
